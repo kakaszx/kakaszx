@@ -5,12 +5,15 @@
 
 ##  My Social Medias
 <div>
-    <a href="https://www.linkedin.com/in/kaaurelio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat" height="30" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com/users/kakaszx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=flat" height="30" alt="Discord" />
-  </a>
+<a href="https://twitter.com/kakaszx_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kakaszx_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaaurelio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaaurelio" height="30" width="40" /></a>
 </div>
-
+    
+###
+<div>
+<a href="https://github.com/kakaszx">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=kakaszx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaszx&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+    
 ###
