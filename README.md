@@ -1,4 +1,4 @@
-<h2 align="center">Hi ! I'm kakaszx, a baby dev br becoming a Web Designer.</h2>
+<h2 align="center">Hi ! I'm kakaszx, Web Designer | Junior Dev</h2>
 
 ##  My Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
