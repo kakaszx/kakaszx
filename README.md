@@ -1,1 +1,1 @@
-<h2 align="center">Hi ! I'm kakaszx, Web Designer | Junior Dev</h2>
+<h2 align="center">Hi ! I'm kakaszx, Web Designer | Aluno Fiap</h2>
