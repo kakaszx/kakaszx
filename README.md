@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kauã%20Aurelio&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Design%20Student%20%7C%20Frontend%20Dev&descAlignY=51&descAlign=50" width="100%"/>
 
 </div>
 
@@ -67,7 +66,5 @@ const kaua = {
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kakaszx&color=6E40C9&style=for-the-badge&label=VISITAS+NO+PERFIL)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
