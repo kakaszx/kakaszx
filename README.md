@@ -1,23 +1,73 @@
-<h1 align="center">Kauã Aurelio Silva</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=999999&center=true&vCenter=true&width=500&lines=Web+Design+Student;Front-End+Developer;" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kauã%20Aurelio&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Design%20Student%20%7C%20Frontend%20Dev&descAlignY=51&descAlign=50" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Kau%C3%A3+%F0%9F%91%8B;Estudante+de+Web+Design;)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### Sobre mim
+## 👨‍💻 Sobre mim
 
-Estudante de Web Design na FIAP, focado em desenvolvimento Front-End e criação de interfaces modernas.
+```js
+const kaua = {
+  nome:       "Kauã Aurelio",
+  curso:      "Web Design",
+  faculdade:  "FIAP",
+  status:     "Aprendendo todos os dias 🚀",
+  foco:       ["Frontend", "UI/UX", "Web Design"],
+  objetivo:   "Criar interfaces incríveis e funcionais"
+};
+```
 
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 <div>
-
-### Ferramentas
 
 <img src="https://skillicons.dev/icons?i=html" height="45"/>
 <img src="https://skillicons.dev/icons?i=css" height="45"/>
 <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
 <img src="https://skillicons.dev/icons?i=figma" height="45"/>
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kakaszx/kakaszx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kakaszx/kakaszx/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kakaszx/kakaszx/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🎯 Atualmente
+
+- 📚 Estudando **Web Design** na **FIAP**
+- 🌱 Aprimorando minhas habilidades em **HTML, CSS e JavaScript**
+- 🎨 Aprendendo **Figma** para UI/UX Design
+- 💡 Sempre buscando novos desafios e projetos
+
+---
+
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=kakaszx&color=6E40C9&style=for-the-badge&label=VISITAS+NO+PERFIL)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
