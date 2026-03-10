@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 ```js
 const kakaszx = {
@@ -25,15 +25,15 @@ const kakaszx = {
 
 ---
 
-## 🎯 Atualmente
+##  Atualmente
 
-- 📚 Estudando **Web Design** na **FIAP**
-- 🌱 Aprimorando minhas habilidades em **HTML, CSS e JavaScript**
-- 🎨 Aprendendo **Figma** para UI/UX Design
+-  Estudando **Web Design** na **FIAP**
+-  Aprimorando minhas habilidades em **HTML, CSS e JavaScript**
+-  Aprendendo **Figma** para UI/UX Design
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,figma&perline=50" height="45"/>
 
